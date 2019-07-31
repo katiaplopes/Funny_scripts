@@ -17,5 +17,5 @@ Romantic code to surprise someone that you like is [here](https://katiaplopes.gi
 
 *******************************
 Created by: 
--Katia de Paiva Lopes
--Bioinformatician, PhD
+ - Katia de Paiva Lopes
+ - Bioinformatician, PhD
