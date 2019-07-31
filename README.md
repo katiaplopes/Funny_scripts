@@ -1,9 +1,7 @@
 ## Random scripts
 #### July 31, 2019
 
-> This page is independent with random but, why not, usefull stuf! 
-
-> All code is in R and depends on packages from CRAN and/ or Bioconductor.
+> This page is independent with random but, why not, usefull stuff. |  All code is in R and depends on packages from CRAN and/ or Bioconductor.
 
 *******************************
 Scripts to try
